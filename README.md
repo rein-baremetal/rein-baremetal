@@ -23,5 +23,5 @@ My focus is **Rescue Tech** bringing bricked, abandoned, and discontinued hardwa
 
 ### 💼 Freelance & Commercial Customization
 Need custom C/C++ firmware, low-level driver development, or a drop-in replacement controller for legacy equipment?
-- 📧 **Email:** [Your Email Here]
-- 📺 **Watch Demos:** [Link to X / YouTube / LinkedIn]
+- 📧 **Email:** nyachiofasihi@gmail.com
+ 
