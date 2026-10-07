@@ -1,4 +1,4 @@
-# Hi, I'm Rein 👋 [@rein-baremetal]
+# Hi, I'm Rein 👋 @rein-baremetal
 
 I write low-level C/C++ firmware, drivers, and bare-metal software solutions. 
 My focus is **Rescue Tech** bringing bricked, abandoned, and discontinued hardware back to life with zero-dependency, open-source code.
