@@ -6,7 +6,7 @@ My focus is **Rescue Tech** bringing bricked, abandoned, and discontinued hardwa
 ---
 
 ### 🛠️ Core Capabilities
-- **Languages:** C , C++, +Python
+- **Languages:** C , C++, &Python
 - **Systems & Hardware:** ESP32, RP2040, STM32, AVR, POSIX Sockets, `libusb`
 - **Focus:** Custom Bootloaders, Bare-Metal Drivers, Reverse Engineering, Local Web/Device Servers
 
